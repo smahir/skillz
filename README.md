@@ -1,4 +1,5 @@
 # skillz
+# Just a Vue js playground
 
 ## Project setup
 ```
